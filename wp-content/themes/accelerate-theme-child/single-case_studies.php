@@ -61,4 +61,9 @@ get_header(); ?>
 
 	</div><!-- #primary -->
 
+	<nav id="navigation" class="container">
+		<div class="left"><a href="<?php echo get_post_type_archive_link('case_studies') ?>">&larr; <span>Back to work</span></a></div>
+	</nav>
+
+
 <?php get_footer(); ?>
