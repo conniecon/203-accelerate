@@ -46,6 +46,10 @@ Text Domain:  accelerate-theme-child
 	text-transform: uppercase;
 }
 
+ul {
+	list-style-type: none;
+}
+
 
 /* Case Studies */
 
@@ -82,9 +86,24 @@ div.case-study-images img {
 	height: auto;
 }
 
-a {
+/* Case Studies Archive */
+
+.project-link {
 	color: #45ac9d;
 }
+
+/*Footer*/
+
+i {
+	background-color: black;
+	border-radius: 30px;
+	color: white;
+	padding: 5px;
+}
+
+
+
+
 
 
 

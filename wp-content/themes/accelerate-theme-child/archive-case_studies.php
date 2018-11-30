@@ -30,7 +30,7 @@ get_header(); ?>
 		
 				<?php the_excerpt(); ?>
 
-				<p><strong><a href="<?php the_permalink(); ?>">View Project</a></strong></p>
+				<p><strong><a class="project-link" href="<?php the_permalink(); ?>">View Project</a></strong></p>
 		</aside>
 
 		<div class="case-study-images">
