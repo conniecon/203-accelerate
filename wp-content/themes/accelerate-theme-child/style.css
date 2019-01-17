@@ -2,7 +2,7 @@
 Theme Name:   Accelerate Theme Child
 Theme URI:    http://example.com/accelerate-theme-child/
 Description:  Accelerate Child Theme - Accelerate
-Author:   	Your Name!
+Author:   	Constance Cain
 Author URI:   http://example.com
 Template: 	accelerate-theme
 Version:      2.0.0
@@ -94,12 +94,23 @@ div.case-study-images img {
 
 /*Footer*/
 
-i {
-	background-color: black;
-	border-radius: 30px;
-	color: white;
-	padding: 5px;
+.social-media-menu li{
+	display: inline;
+	width: 20%;
+	/*color: black;*/
 }
+
+i {
+	/*color: black;*/
+	
+
+}
+
+.fa-linkedin-square {
+	/*color: black;*/
+}
+
+
 
 
 
