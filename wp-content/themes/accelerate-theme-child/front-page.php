@@ -63,6 +63,36 @@ get_header(); ?>
 				<?php wp_reset_query(); ?>
 		</div>
 	</div>
-</section> 
+</section>
+
+
+<section>		
+		<?php if ( is_active_sidebar( 'sidebar-2' ) ) : ?>
+		<div id="secondary" class="widget-area" role="complementary">
+			<?php dynamic_sidebar( 'sidebar-2' ); ?>
+		</div>
+		<div class="follow-us-link">
+			<a href="">
+				<span>Follow us &rang;</span>
+			</a>
+		</div>
+		<?php endif; ?>
+</section>
+
+
 
 <?php get_footer(); ?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
