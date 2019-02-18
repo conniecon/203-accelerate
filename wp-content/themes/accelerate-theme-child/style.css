@@ -72,14 +72,7 @@ div.case-study-images {
 	float: left;
 	width: 600px;	
 }
-/*.col-narrow{
-	float: left;
-	width: 300px;
-}
-.col-wide {
-	float: right;
-	width: 600px;
-}*/
+
 
 /* Featured Work */
 
@@ -104,12 +97,7 @@ div.case-study-images img {
 
 /* Twitter Module */
 
-/*.widget-title {
-	font: 700 1em/1.75 'Montserrat', 'Open Sans', Arial, sans-serif;
-	color: #a6a6a6;
-	text-transform: uppercase;
-	margin: 2em 0 .5em;
-}*/
+
 #pi_simpletwittertweets-2 {
 	float: left;
 	width: 30%;
@@ -145,10 +133,10 @@ div.case-study-images img {
 
 /* Contact Us */
 
-div#primary.site-content.sidebar {
+/*div#primary.site-content.sidebar {
 	padding-left: 200px;
 	padding-right: 200px;
-}
+}*/
 
 div#nf-field-1-container.nf-field-container.textbox-container.label-above {
 	display: inline-block;
@@ -223,6 +211,10 @@ div.about-image {
 	margin-left: 150px;
 	margin-top: 30px;
 	margin-bottom: 30px;
+}
+.about-nav-button {
+	display: inline-block;
+	margin-top: 25px;
 }
 
 /* 404 */

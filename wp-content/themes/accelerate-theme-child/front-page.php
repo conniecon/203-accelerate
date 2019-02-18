@@ -73,7 +73,7 @@ get_header(); ?>
 		</div>
 		<div class="follow-us-link">
 			<a href="">
-				<span>Follow us &rang;</span>
+				<span>Follow us</span>
 			</a>
 		</div>
 		<?php endif; ?>
